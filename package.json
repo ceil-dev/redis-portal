@@ -1,6 +1,6 @@
 {
   "name": "@ceil-dev/redis-portal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Sergey Shkatula",
   "description": "Create Portal with Redis Ether",
   "license": "MIT",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github:ceil-dev/redis-portal#develop"
+    "url": "https://github.com/ceil-dev/redis-portal.git"
   },
   "devDependencies": {
     "@types/node": "^22.13.4",
